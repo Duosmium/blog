@@ -7,9 +7,9 @@ authors:
 tags:
   - Duosmium News
 geekblogToC: 3
-geekblogHidden: true
-geekblogAnchor: true
-draft: true
+geekblogHidden: false
+geekblogAnchor: false
+draft: false
 ---
 Welcome to the new Duosmium blog! We're excited to roll this site out as a space to share thoughts about Science Olympiad. We'll also be using the "Duosmium News" section of this website to be discussing our own work on Duosmium-related projects.
 <!--more-->
