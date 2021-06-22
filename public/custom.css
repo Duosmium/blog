@@ -1,0 +1,145 @@
+/* You can add custom styles here. */
+.gblog-header {
+  background-color: var(--primary);
+  font-family: var(--font-family-sans-serif);
+  font-weight: 300;
+  color: var(--light);
+}
+
+body {
+  font-family: var(--font-family-sans-serif);
+}
+
+:root {
+  --breakpoint-xs: 0;
+  --breakpoint-sm: 576px;
+  --breakpoint-md: 768px;
+  --breakpoint-lg: 992px;
+  --breakpoint-xl: 1200px;
+  --amber: #ffc107;
+  --blue: #2196f3;
+  --blue-grey: #607d8b;
+  --brown: #795548;
+  --cyan: #00bcd4;
+  --deep-orange: #ff5722;
+  --deep-purple: #673ab7;
+  --green: #4caf50;
+  --grey: #9e9e9e;
+  --indigo: #3f51b5;
+  --light-blue: #03a9f4;
+  --light-green: #8bc34a;
+  --lime: #cddc39;
+  --orange: #ff9800;
+  --pink: #e91e63;
+  --purple: #9c27b0;
+  --red: #f44336;
+  --teal: #009688;
+  --yellow: #ffeb3b;
+  --primary: #1f1b35;
+  --primary-dark: #0b0a13;
+  --primary-light: #332c57;
+  --secondary: #15658c;
+  --secondary-dark: #0e4560;
+  --secondary-light: #1c85b8;
+  --danger: #f44336;
+  --danger-dark: #d32f2f;
+  --danger-light: #ffcdd2;
+  --info: #2196f3;
+  --info-dark: #1976d2;
+  --info-light: #bbdefb;
+  --success: #4caf50;
+  --success-dark: #388e3c;
+  --success-light: #c8e6c9;
+  --warning: #ff9800;
+  --warning-dark: #f57c00;
+  --warning-light: #ffe0b2;
+  --dark: #424242;
+  --dark-dark: #212121;
+  --dark-light: #757575;
+  --light: #f5f5f5;
+  --light-dark: #e0e0e0;
+  --light-light: #fafafa;
+  --font-family-monospace: "Roboto Mono", Menlo, Monaco, Consolas,
+    "Liberation Mono", "Courier New", monospace;
+  --font-family-sans-serif: Roboto, -apple-system, BlinkMacSystemFont,
+    "Segoe UI", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol";
+  --font-family-serif: "Roboto Slab", Georgia, "Times New Roman", Times, serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+.gblog-footer__link {
+  color: var(--orange);
+}
+
+.gblog-footer {
+  background-color: var(--primary);
+  color: var(--light);
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+
+svg#d-logo {
+  fill: var(--light);
+  height: calc(1.7 * (3rem));
+  width: calc(1.7 * (3rem));
+  margin: -1em -0.3em;
+  vertical-align: middle;
+}
+
+span:hover svg#d-logo path {
+  animation: fire 3s linear infinite;
+}
+
+@-webkit-keyframes fire {
+  0% {
+    fill: #dc143c;
+  }
+  14% {
+    fill: #ff8c00;
+  }
+  28% {
+    fill: gold;
+  }
+  42% {
+    fill: #9acd32;
+  }
+  57% {
+    fill: #4169e1;
+  }
+  71% {
+    fill: indigo;
+  }
+  86% {
+    fill: #9400d3;
+  }
+  to {
+    fill: #dc143c;
+  }
+}
+@keyframes fire {
+  0% {
+    fill: #dc143c;
+  }
+  14% {
+    fill: #ff8c00;
+  }
+  28% {
+    fill: gold;
+  }
+  42% {
+    fill: #9acd32;
+  }
+  57% {
+    fill: #4169e1;
+  }
+  71% {
+    fill: indigo;
+  }
+  86% {
+    fill: #9400d3;
+  }
+  to {
+    fill: #dc143c;
+  }
+}

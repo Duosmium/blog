@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <generator uri="https://gohugo.io/" version="0.83.1">Hugo</generator><title type="html"><![CDATA[Duosmium Blog]]></title>
+    
+        <subtitle type="html"><![CDATA[Keeping up with the Science Olympiad world.]]></subtitle>
+    
+    
+    
+            <link href="/" rel="alternate" type="text/html" title="HTML" />
+            <link href="/atom.xml" rel="self" type="application/atom+xml" title="Atom" />
+    <updated>2021-06-21T21:02:06-04:00</updated>
+    
+        <author>
+            <name>The Duosmium Team</name>
+            
+                <email>duosmium@gmail.com</email>
+            </author>
+        
+    <id>/</id>
+</feed>
