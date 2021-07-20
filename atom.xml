@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <generator uri="https://gohugo.io/" version="0.85.0">Hugo</generator><title type="html"><![CDATA[Duosmium Blog]]></title>
+    
+        <subtitle type="html"><![CDATA[Keeping up with the Science Olympiad world.]]></subtitle>
+    
+    
+    
+            <link href="/" rel="alternate" type="text/html" title="HTML" />
+            <link href="/atom.xml" rel="self" type="application/atom+xml" title="Atom" />
+    <updated>2021-07-20T18:20:32+00:00</updated>
+    
+        <author>
+            <name>The Duosmium Team</name>
+            
+                <email>duosmium@gmail.com</email>
+            </author>
+        
+    <id>/</id>
+        
+        <entry>
+            <title type="html"><![CDATA[Welcome and Summer 2021 News]]></title>
+            <link href="/posts/welcome/?utm_source=atom_feed" rel="alternate" type="text/html"  hreflang="en" />
+            <id>/posts/welcome/</id>
+            
+                    <author>
+                        <name>The Duosmium Team</name>
+                    </author>
+            <published>2021-06-21T11:38:48-04:00</published>
+            <updated>2021-06-21T11:38:48-04:00</updated>
+            
+            
+            <content type="html"><![CDATA[<p>Welcome to the new Duosmium blog! We&rsquo;re excited to roll this site out as a space to share thoughts about Science Olympiad. We&rsquo;ll also be using the &ldquo;Duosmium News&rdquo; section of this website to be discussing our own work on Duosmium-related projects.</p>
+<div class="gblog-post__anchorwrap">
+    <h2 id="summer-2021-updates">
+        Summer 2021 Updates
+    </h2>
+</div><p>School is out, which means it&rsquo;s time for upgrades to Duosmium Results! Some of the things we&rsquo;re working on:</p>
+<ul>
+<li>We&rsquo;re overhauling <code>sciolyff</code>&rsquo;s implementation of tracks (aka subdivisions) to include new features for handling per-track differences (e.g. different medalling places per track).</li>
+<li>We&rsquo;re also working on adding per-event medals when needed (e.g. nationals, which usually does top-6 for most events but top-3 for trials).</li>
+<li>The results website can take a while to build, and some portions of it don&rsquo;t scale as well as others to a growing site. That&rsquo;s why we&rsquo;re investigating new technologies to speed up build times, creating a more efficient system and reducing the wait for new tournament results.</li>
+<li>And of course, we&rsquo;re hard at work fixing canonicalization issues and adding historical data to the site.</li>
+</ul>
+<p>If you&rsquo;re interested in contributing to either Duosmium Results or this blog, feel free to <a class="gblog-markdown__link" href="mailto:duosmium@gmail.com">email us</a>!</p>]]></content>
+            
+                 
+                    
+                         
+                        
+                            
+                             
+                                <category scheme="/authors/duosmium" term="duosmium" label="duosmium" />
+                            
+                        
+                    
+                 
+                    
+                         
+                        
+                            
+                             
+                                <category scheme="/tags/duosmium-news" term="duosmium-news" label="Duosmium News" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+</feed>
