@@ -1,7 +1,7 @@
 baseURL = "/"
 title = "Duosmium Blog"
 # theme = "hugo-geekblog"
-publishDir = "docs"
+publishDir = "public"
 
 # Required to get well formatted code blocks
 pygmentsUseClasses = true
