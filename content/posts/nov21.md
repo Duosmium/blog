@@ -19,5 +19,7 @@ As we start the 2021 season and enter into the Fall, we've already hosted our fi
 As always, if you're interested in hosting your upcoming competition's results on Duosmium, email us at [admin@duosmium.org](admin@duosmium.org)!
 
 Regards,
+
 Shreyas and Jason
+
 The Duosmium Team
