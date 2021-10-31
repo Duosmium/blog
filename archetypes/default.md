@@ -6,6 +6,7 @@ authors:
   - duosmium
 tags:
   - Duosmium News
+  - Monthly Updates
 geekblogToC: 3
 geekblogHidden: true
 geekblogAnchor: true
