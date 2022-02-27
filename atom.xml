@@ -8,7 +8,7 @@
     
             <link href="/" rel="alternate" type="text/html" title="HTML" />
             <link href="/atom.xml" rel="self" type="application/atom+xml" title="Atom" />
-    <updated>2022-02-27T04:55:13+00:00</updated>
+    <updated>2022-02-27T04:56:00+00:00</updated>
     
         <author>
             <name>The Duosmium Team</name>
@@ -17,6 +17,79 @@
             </author>
         
     <id>/</id>
+        
+        <entry>
+            <title type="html"><![CDATA[February 2022 Update]]></title>
+            <link href="/posts/feb22/?utm_source=atom_feed" rel="alternate" type="text/html"  hreflang="en" />
+            <id>/posts/feb22/</id>
+            
+                    <author>
+                        <name>The Duosmium Team</name>
+                    </author>
+            <published>2022-02-26T23:06:26-05:00</published>
+            <updated>2022-02-26T23:06:26-05:00</updated>
+            
+            
+            <content type="html"><![CDATA[<p>Hey everyone! As February comes to a close, here&rsquo;s some of the things we&rsquo;ve been working on in the past month.</p>
+<div class="gblog-post__anchorwrap">
+    <h2 id="competitions">
+        Competitions
+        <a data-clipboard-text="/posts/feb22/#competitions" class="gblog-post__anchor gblog-post__anchor--right clip" aria-label="Anchor Competitions" href="#competitions">
+            <svg class="icon gblog_link"><use xlink:href="#gblog_link"></use></svg>
+        </a>
+    </h2>
+</div><p>We have reached 400 results on Duosmium! This is a huge milestone for us, and we&rsquo;re super happy to have accomplished it. It&rsquo;s been great getting to work with the community as we publish everything, and we&rsquo;re so grateful for your continuing support.</p>
+<p>Some of our recent official work:</p>
+<ul>
+<li>BirdSO Satellite Invitational: <a class="gblog-markdown__link" href="https://www.duosmium.org/results/2022-02-12_birdso_satellite_invitational_b">Division B</a>, <a class="gblog-markdown__link" href="https://www.duosmium.org/results/2022-02-12_birdso_satellite_invitational_c">Division C</a></li>
+<li>MIT Invitational: <a class="gblog-markdown__link" href="https://www.duosmium.org/results/2022-01-22_mit_invitational_c">Division C</a></li>
+<li>North Pocono Invitational: <a class="gblog-markdown__link" href="https://www.duosmium.org/results/2022-01-29_north_pocono_in-person_invitational_c">Division C In-Person</a>, <a class="gblog-markdown__link" href="https://www.duosmium.org/results/2022-01-29_north_pocono_satellite_invitational_c">Division C Satellite</a></li>
+<li>Science Olympiad at Penn State Invitational: <a class="gblog-markdown__link" href="https://www.duosmium.org/results/2022-02-05_soaps_invitational_c">Division C</a></li>
+<li>Sierra Vista Invitational: <a class="gblog-markdown__link" href="https://www.duosmium.org/results/2022-02-05_sierra_vista_invitational_a">Division A</a>, <a class="gblog-markdown__link" href="https://www.duosmium.org/results/2022-02-05_sierra_vista_invitational_b">Division B</a></li>
+<li>University of Michigan Invitational: <a class="gblog-markdown__link" href="https://www.duosmium.org/results/2022-02-19_umich_invitational_b">Division B</a>, <a class="gblog-markdown__link" href="https://www.duosmium.org/results/2022-02-19_umich_invitational_c">Division C</a></li>
+</ul>
+<div class="gblog-post__anchorwrap">
+    <h2 id="technical">
+        Technical
+        <a data-clipboard-text="/posts/feb22/#technical" class="gblog-post__anchor gblog-post__anchor--right clip" aria-label="Anchor Technical" href="#technical">
+            <svg class="icon gblog_link"><use xlink:href="#gblog_link"></use></svg>
+        </a>
+    </h2>
+</div><p>We have some big changes incoming to the Duosmium Results site! We&rsquo;ve been working on an improved version of the site that allows for faster builds as well as new functionality. This new site is written in JavaScript using the <a class="gblog-markdown__link" href="https://mozilla.github.io/nunjucks/">Nunjucks</a> templating engine and <a class="gblog-markdown__link" href="https://www.11ty.dev/">11ty</a> static site generator. Using these tools and the powerful asynchronous functionality of <a class="gblog-markdown__link" href="https://docs.netlify.com/configure-builds/on-demand-builders/">Netlify On-Demand Builders</a>, we&rsquo;ve been able to cut down build times from several minutes to as little as 15 seconds, since we no longer have to generate hundreds of results pages each time &ndash; the results are now generated whenever someone accesses them!</p>
+<p>Another cool feature that&rsquo;s been added to the new site is a popular request: you can now superscore tournaments! To superscore a tournament, open the filter menu and select &ldquo;Superscored&rdquo;. This will show you the superscored results of the tournament, and you can analyze and export them like you would normally.</p>
+<p>The new site is currently in testing, and we hope to replace our existing Duosmium Results site with it in the near future. If you would like to check it out, you can <a class="gblog-markdown__link" href="https://next.duosmium.org/">visit the site</a> or <a class="gblog-markdown__link" href="https://www.github.com/Duosmium/duosmium-js">check out the source code</a>. Thanks so much to Tomi Chen for rewriting <code>sciolyff</code> and the Duosmium website and implementing all these innovative features!</p>
+<p>That&rsquo;s all for now. See you soon!</p>
+<p>Regards,</p>
+<p>Jason, Shreyas, and Tomi</p>
+<p>The Duosmium Team</p>
+]]></content>
+            
+                 
+                    
+                         
+                        
+                            
+                             
+                                <category scheme="/authors/duosmium" term="duosmium" label="duosmium" />
+                            
+                        
+                    
+                 
+                    
+                         
+                        
+                            
+                             
+                                <category scheme="/tags/duosmium-news" term="duosmium-news" label="Duosmium News" />
+                             
+                                <category scheme="/tags/monthly-updates" term="monthly-updates" label="Monthly Updates" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         
         <entry>
             <title type="html"><![CDATA[November 2021 Update]]></title>
