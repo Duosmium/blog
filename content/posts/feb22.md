@@ -16,7 +16,7 @@ Hey everyone! As February comes to a close, here's some of the things we've been
 
 ## Competitions
 
-We are approaching 400 results on Duosmium! This is a huge milestone for us, and we can't wait to reach it. It's been great getting to work with the community as we publish everything, and we're so grateful for your continuing support.
+We have reached 400 results on Duosmium! This is a huge milestone for us, and we're super happy to have accomplished it. It's been great getting to work with the community as we publish everything, and we're so grateful for your continuing support.
 
 Some of our recent official work:
 
@@ -35,6 +35,11 @@ Another cool feature that's been added to the new site is a popular request: you
 
 The new site is currently in testing, and we hope to replace our existing Duosmium Results site with it in the near future. If you would like to check it out, you can [visit the site](https://next.duosmium.org/) or [check out the source code](https://www.github.com/Duosmium/duosmium-js). Thanks so much to Tomi Chen for rewriting `sciolyff` and the Duosmium website and implementing all these innovative features!
 
-{{< hint >}}
-One note about the new site: it is tied more directly to Netlify-specific features, so it will not initially work properly if you're not using Netlify. We're working on a solution that will allow you to use the site without Netlify, but we're not quite there yet.
-{{< /hint >}}
+That's all for now. See you soon!
+
+Regards,
+
+Jason, Shreyas, and Tomi
+
+The Duosmium Team
+
