@@ -1,5 +1,5 @@
 ---
-title: "November Update"
+title: "November 2021 Update"
 date: 2021-10-31T14:15:00-04:00
 weight: 0
 authors:
