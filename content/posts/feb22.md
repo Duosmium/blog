@@ -12,6 +12,8 @@ geekblogHidden: true
 geekblogAnchor: true
 draft: false 
 ---
+**Update 3/4/2022**: We've officially migrated to the new Duosmium site! Don't worry about changing your bookmarks -- loading <www.duosmium.org> will automatically take you to the new Duosmium website.
+
 Hey everyone! As February comes to a close, here's some of the things we've been working on in the past month.
 
 ## Competitions
