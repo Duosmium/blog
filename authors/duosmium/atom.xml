@@ -8,7 +8,7 @@
     
             <link href="/authors/duosmium/" rel="alternate" type="text/html" title="HTML" />
             <link href="/authors/duosmium/atom.xml" rel="self" type="application/atom+xml" title="Atom" />
-    <updated>2022-03-04T20:21:19+00:00</updated>
+    <updated>2022-07-11T16:21:54+00:00</updated>
     
         <author>
             <name>The Duosmium Team</name>
@@ -17,6 +17,93 @@
             </author>
         
     <id>/authors/duosmium/</id>
+        
+        <entry>
+            <title type="html"><![CDATA[July 2022 Update]]></title>
+            <link href="/posts/jul22/?utm_source=atom_feed" rel="alternate" type="text/html"  hreflang="en" />
+            <id>/posts/jul22/</id>
+            
+                    <author>
+                        <name>The Duosmium Team</name>
+                    </author>
+            <published>2022-07-11T12:07:20-04:00</published>
+            <updated>2022-07-11T12:07:20-04:00</updated>
+            
+            
+            <content type="html"><![CDATA[<p>Hey everyone! As February comes to a close, here&rsquo;s some of the things we&rsquo;ve been working on in the past month.</p>
+<div class="gblog-post__anchorwrap">
+    <h2 id="competitions">
+        Competitions
+        <a data-clipboard-text="/posts/jul22/#competitions" class="gblog-post__anchor gblog-post__anchor--right clip" aria-label="Anchor Competitions" href="#competitions">
+            <svg class="icon gblog_link"><use xlink:href="#gblog_link"></use></svg>
+        </a>
+    </h2>
+</div><p>It may not be competition season right now, but new results are always being added to Duosmium. Right now, we have <strong>718 results</strong> on our website!
+Thank you so much to everyone who contributed results to Duosmium &ndash; we can&rsquo;t overstate how much your help powers our work.</p>
+<p>See something missing? Send it our way!</p>
+<p>Recent official work:</p>
+<ul>
+<li>Nationals: <a class="gblog-markdown__link" href="https://www.duosmium.org/results/2022-05-14_nationals_b/">Div B</a>, <a class="gblog-markdown__link" href="https://www.duosmium.org/results/2022-05-14_nationals_c/">Div C</a></li>
+<li>States:
+<ul>
+<li>Northern California: <a class="gblog-markdown__link" href="https://www.duosmium.org/results/2022-04-02_nCA_states_b/">Div B</a>, <a class="gblog-markdown__link" href="https://www.duosmium.org/results/2022-04-02_nCA_states_c/">Div C</a></li>
+<li>Southern California: <a class="gblog-markdown__link" href="https://www.duosmium.org/results/2022-03-05_sCA_states_a/">Div A</a>, <a class="gblog-markdown__link" href="https://www.duosmium.org/results/2022-04-02_sCA_states_b/">Div B</a>, <a class="gblog-markdown__link" href="https://www.duosmium.org/results/2022-04-02_sCA_states_c/">Div C</a></li>
+<li>Tennessee: <a class="gblog-markdown__link" href="https://www.duosmium.org/results/2022-04-09_TN_states_b/">Div B</a>, <a class="gblog-markdown__link" href="https://www.duosmium.org/results/2022-04-09_TN_states_c/">Div C</a></li>
+</ul>
+</li>
+<li>Regionals:
+<ul>
+<li>Northern California &ndash; Bay Area: <a class="gblog-markdown__link" href="https://www.duosmium.org/results/2022-03-05_nCA_bay_area_regional_b/">Div B</a>, <a class="gblog-markdown__link" href="https://www.duosmium.org/results/2022-03-05_nCA_bay_area_regional_c/">Div C</a></li>
+</ul>
+</li>
+<li>Invitationals:
+<ul>
+<li>Lexington: <a class="gblog-markdown__link" href="https://www.duosmium.org/results/2022-04-15_lexington_invitational_b/">Div B</a>, <a class="gblog-markdown__link" href="https://www.duosmium.org/results/2022-04-15_lexington_invitational_no_builds_b/">Div B &ndash; No Builds</a>, <a class="gblog-markdown__link" href="https://www.duosmium.org/results/2022-04-15_lexington_invitational_c/">Div C</a>, <a class="gblog-markdown__link" href="https://www.duosmium.org/results/2022-04-15_lexington_invitational_no_builds_c/">Div C &ndash; No Builds</a></li>
+<li>Mason: <a class="gblog-markdown__link" href="https://www.duosmium.org/results/2022-03-19_mason_invitational_c/">Div C</a></li>
+</ul>
+</li>
+</ul>
+<div class="gblog-post__anchorwrap">
+    <h2 id="join-the-community">
+        Join the Community!
+        <a data-clipboard-text="/posts/jul22/#join-the-community" class="gblog-post__anchor gblog-post__anchor--right clip" aria-label="Anchor Join the Community!" href="#join-the-community">
+            <svg class="icon gblog_link"><use xlink:href="#gblog_link"></use></svg>
+        </a>
+    </h2>
+</div><p>For the last year and a half, the Duosmium team has used a Discord server to discuss the project and brainstorm new ideas. Today, we&rsquo;re proud to announce that we&rsquo;re opening the server up to the public! Anyone interested in Duosmium is welcome to join the server and get involved.</p>
+<p>You can join the server at this link: <a href="https://discord.gg/D6H5KNScHB">https://discord.gg/D6H5KNScHB</a> We can&rsquo;t wait to see you in the server!</p>
+<p>That&rsquo;s all for now. See you soon!</p>
+<p>Regards,</p>
+<p>Jason, Shreyas, and Tomi</p>
+<p>The Duosmium Team</p>
+]]></content>
+            
+                 
+                    
+                         
+                        
+                            
+                             
+                                <category scheme="/authors/duosmium" term="duosmium" label="duosmium" />
+                            
+                        
+                    
+                 
+                    
+                         
+                        
+                            
+                             
+                                <category scheme="/tags/duosmium-news" term="duosmium-news" label="Duosmium News" />
+                             
+                                <category scheme="/tags/monthly-updates" term="monthly-updates" label="Monthly Updates" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         
         <entry>
             <title type="html"><![CDATA[February 2022 Update]]></title>
