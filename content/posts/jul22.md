@@ -12,7 +12,7 @@ geekblogHidden: true
 geekblogAnchor: true
 draft: false 
 ---
-Hey everyone! As February comes to a close, here's some of the things we've been working on in the past month.
+Hey everyone! We hope you're enjoying your summer. Here's some of the things we've been up to lately.
 
 ## Competitions
 
