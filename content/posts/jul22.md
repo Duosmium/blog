@@ -13,7 +13,7 @@ geekblogAnchor: true
 draft: false 
 ---
 Hey everyone! We hope you're enjoying your summer. Here's some of the things we've been up to lately.
-
+<!--more-->
 ## Competitions
 
 It may not be competition season right now, but new results are always being added to Duosmium. Right now, we have **718 results** on our website!
